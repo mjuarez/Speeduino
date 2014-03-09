@@ -10,6 +10,8 @@ To use the Python example scripts, you'll need the following modules:
 * [requests](http://docs.python-requests.org/en/latest/)
 
 ## Examples
+See a [video](https://vine.co/v/Mqi21XbrPLl) of a speedometer doing a sweep controlled via Arduino.
+
 #### btcguild.py
 ```
 btcguild.py
