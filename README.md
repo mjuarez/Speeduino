@@ -3,7 +3,7 @@
 Speeduino is an Arduino controlled speedometer project. It's originally written to work with Speedhut speedometers but could probably be adapted to work with others.
 
 ## Getting Started
-Please refer to [Speedhut's page](http://www.speedhut.com/instructions.i) for instructions on hooking up your speedometer. Instructions for connection your Arduino are available in the comment header of the sketch.
+Please refer to [Speedhut's page](http://www.speedhut.com/instructions.i) for instructions on hooking up your speedometer. Instructions for connecting your Arduino are available in the comment header of the sketch.
 
 To use the Python example scripts, you'll need the following modules:
 * [pyserial](http://pyserial.sourceforge.net/)
